@@ -17,4 +17,4 @@ Please fill out all of the following sections to help us grade your submission:
 
 [Add a screenshot](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) of your submission here:
 
-![](https://media.giphy.com/media/BSx6mzbW1ew7K/giphy.gif)
+![](https://media.giphy.com/media/uX7rqRyY3lzmo/giphy.gif)
