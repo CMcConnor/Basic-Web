@@ -6,12 +6,11 @@ Please fill out all of the following sections to help us grade your submission:
 
 ## Student(s)
 
-* James Kirk, kirkx282@umn.edu
-* ...
+* Connor McCrory, mccro016@umn.edu
 
 ## Link to Site
 
-<http://example.com>
+<https://umn-5117-f17.github.io/getting-started-homework-2-connor/>
 
 ## Screenshot of Site
 
